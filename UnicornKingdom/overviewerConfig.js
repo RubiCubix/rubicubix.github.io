@@ -23,11 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "world2"
+        "myworld"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1699709051",
+        "cacheTag": "1699715499",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -42,14 +42,14 @@ var overviewerConfig = {
     "tilesets": [
         {
             "name": "Normal Render of My World",
-            "zoomLevels": 7,
+            "zoomLevels": 8,
             "defaultZoom": 1,
-            "maxZoom": 7,
+            "maxZoom": 8,
             "path": "normalrender",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "world2",
-            "last_rendertime": 1699708750,
+            "world": "myworld",
+            "last_rendertime": 1699713507,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
